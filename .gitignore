@@ -1,0 +1,7 @@
+node_modules
+password.txt
+*.jpg
+*.png
+!informatique.png
+log*
+*.txt
